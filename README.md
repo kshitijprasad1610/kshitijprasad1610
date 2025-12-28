@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**kshitijprasad1610/kshitijprasad1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Kshitij Prasad<br><br>🔭 I’m currently working on<br><br>Building hands-on tech projects that blend software with real-world hardware<br><br>Designing and implementing smart, automated systems<br><br>Exploring practical problem-solving through engineering<br><br>👯 I’m looking to collaborate on<br><br>Innovative tech and engineering projects<br><br>Open-source initiatives where learning and experimentation matter<br><br>Ideas that turn concepts into working solutions<br><br>🤝 I’m looking for help with<br><br>Improving system efficiency and reliability<br><br>Learning best practices for scalable and maintainable designs<br><br>Exploring advanced techniques in intelligent systems<br><br>🌱 I’m currently learning<br><br>Core concepts of embedded systems and automation<br><br>Data structures, algorithms, and software fundamentals<br><br>Computer vision and AI-driven applications<br><br>💬 Ask me about<br><br>Project building from scratch<br><br>Hardware–software integration<br><br>Programming fundamentals and logic building<br><br>Debugging and optimizing technical systems<br><br>⚡ Fun fact<br><br>I enjoy transforming ideas into real, working projects and learning something new from every failure 
 
 
@@ -35,8 +25,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=kshitijprasad1610&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
